@@ -22,55 +22,55 @@
 
 .one {
     grid-area: 1/1/4/2;
-    background-color: #007F5F;
+    background-color: #f72585;
 }
 
 .two {
     grid-area: 4/1/7/2;
-    background-color: #2B9348;
+    background-color: #b5179e;
 }
 
 .three {
     grid-area: 1/2/7/4;
-    background-color: #80B918;
+    background-color: #7209b7;
 }
 
 .four {
     grid-area: 1/4/3/6;
-    background-color: #DDDF00;
+    background-color: #560bad;
 }
 
 .five {
     grid-area: 3/4/5/6;
-    background-color: #EEEF20;
+    background-color: #480ca8;
 } 
 
 .six {
     grid-area: 5/4/7/6;
-    background-color: #FFFF3F; 
+    background-color: #3a0ca3; 
 }
 
 .seven {
     grid-area: 7/1/11/2;
-    background-color: #55A630;
+    background-color: #3f37c9;
 }
 
 .eight {
     grid-area: 7/2/9/3;
-    background-color: #AACC00;
+    background-color: #4361ee;
 }
 
 .nine {
     grid-area: 9/2/11/3;
-    background-color: #BFD200;
+    background-color: #4895ef;
 }
 
 .ten  {
     grid-area: 7/3/11/5;
-    background-color: #D4D700;
+    background-color: #4cc9f0;
 }
 
 .eleven {
     grid-area: 7/5/11/6;
-    background-color: #007F5F;
+    background-color: #f72585;
 }
